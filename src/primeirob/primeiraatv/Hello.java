@@ -1,4 +1,4 @@
-package primeirob;
+package primeirob.primeiraatv;
 
 public class Hello {
     public static void main(String[] args) {
